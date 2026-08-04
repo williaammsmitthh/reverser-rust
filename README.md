@@ -6,3 +6,5 @@ Reversing string array characters in Rust.
 Clone this project and look at the source files:
 - `main.rs`
 - `rev.rs`
+
+*Initialized by williaammsmitthh workspace automation.*
